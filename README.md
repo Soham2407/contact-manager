@@ -1,8 +1,20 @@
-# React + Vite
+# Contact Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Create React App using Vite
+- Functional components
+- JSX
+- Props
+- useState hook
+- useEffect hook for persisting data in local storage
+- Conditional Rendering
+- Listing of contacts
+- CRUD operation on contact
+- Lifting State Up
+- Routing of App
+- Use React Router v6.23.1
+- Link
+- Nested Route
+- useNavigate()
+- useLocation()
