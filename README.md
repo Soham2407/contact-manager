@@ -15,6 +15,6 @@
 - Routing of App
 - Use React Router v6.23.1
 - Link
-- Nested Route
+- Nested Routes & Outlet
 - useNavigate()
 - useLocation()
