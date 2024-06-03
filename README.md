@@ -1,7 +1,5 @@
 # Contact Manager
 
----
-
 - Create React App using Vite
 - Functional components
 - JSX
